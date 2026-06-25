@@ -11,6 +11,6 @@ A simple student management system built with python that allows adding, viewing
 - Save Data
 - Exit System
 
-- ## Run
+## Run
 - python mian.py
 
